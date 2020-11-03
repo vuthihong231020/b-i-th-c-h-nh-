@@ -13,6 +13,7 @@ namespace demo_git_github
             Console.WriteLine("Xin chào các bạn");
             Console.WriteLine("Hôm nay lớp 101186 đang thực hành môn đảm bảo và chất lượng phần mềm");
             Console.WriteLine("Giáo viên giảng dạy: cô Ngô Thanh Huyền hihi");
+            Console.WriteLine("hi hi");
             Console.ReadKey();
         }
     }
